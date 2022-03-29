@@ -1,0 +1,46 @@
+body {
+    background-color: #1D181D;
+    color: #1D181D;
+}
+
+/* .col-6, .col-3 {
+    border: solid green;
+}
+
+.row {
+    border: solid red;
+} */
+
+.slider-img {
+    object-fit: cover;
+    object-position: center center;
+    width: auto;
+    height: 40vh;
+}
+
+.portionen {
+    width: 3em;
+}
+
+.similar-img {
+    object-fit: cover;
+    object-position: center center;
+    width: 100%;
+    height: 25vh;
+}
+
+.color-slider {
+    background-color: #EFE8ED;
+}
+
+.color-zutaten {
+    background-color: #EFE8ED;
+}
+
+.color-zubereitung {
+    background-color: #EFE8ED;
+}
+
+.color-similar {
+    background-color: #EFE8ED;
+}
