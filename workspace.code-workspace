@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Cookbook-Gruppe4",
+			"path": "../../../Desktop/Cookbook-Gruppe4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cookbook-Gruppe4"
+	}
+}
