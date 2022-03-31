@@ -14,7 +14,11 @@
 
 .bg-dark, .navbar-dark {
     background-color: #777880 !important;
-    color: #777880 !important;
+    color: #EFE8ED !important;
+}
+
+.dropdown-toggle {
+    color: #EFE8ED !important;
 }
 
 .fa {
