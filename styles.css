@@ -3,7 +3,7 @@ body {
     color: #1D181D;
 }
 
-/* .col-6, .col-3 {
+/* .col, .col-9, .col-8, .col-6, .col-3 {
     border: solid green;
 }
 
@@ -11,11 +11,25 @@ body {
     border: solid red;
 } */
 
-.slider-img {
+.slider-img1 {
+    object-fit: cover;
+    object-position: center -42em;
+    width: auto;
+    height: 50vh;
+}
+
+.slider-img2 {
+    object-fit: cover;
+    object-position: center -3em;
+    width: auto;
+    height: 50vh;
+}
+
+.slider-img3 {
     object-fit: cover;
     object-position: center center;
     width: auto;
-    height: 40vh;
+    height: 50vh;
 }
 
 .portionen {
@@ -38,9 +52,55 @@ body {
 }
 
 .color-zubereitung {
-    background-color: #EFE8ED;
+    color: #EFE8ED;
 }
 
 .color-similar {
     background-color: #EFE8ED;
+}
+
+.rezderwoche-bild {
+    object-fit: cover;
+    object-position: center center;
+    width: 60%;
+    height: 30vh;
+    z-index: 0;
+}
+
+.rezderwoche-head {
+    margin-top: 5em;
+}
+
+.rezderwoche-kasten {
+    background-color: #1D181D;
+    color: #EFE8ED;
+    max-width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: -10%;
+}
+
+.rezderwoche-text {
+    width: 90%;
+}
+
+.datenschutztext {
+    font-size: 0.7em;
+}
+
+.homepage-row {
+    background-color: #EFE8ED;
+}
+
+.btn {
+    background-color: #EFE8ED;
+    color: #1D181D;
+}
+
+.smileys {
+    font-size: 4em;
+}
+
+.smileys:hover {
+    font-size: 5em;
 }
